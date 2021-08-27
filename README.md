@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 <center>
-![screenshot-desktop-ver](./images/screenshot-desktop.png)
-![screenshot-mobile-ver](./images/screenshot-mobile.png)
+![screenshot-desktop-ver](./images/Screenshot-desktop.png)
+![screenshot-mobile-ver](./images/Screenshot-mobile.png)
 </center>
 
 
