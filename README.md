@@ -29,6 +29,7 @@ Users should be able to:
 ### Screenshot
 
 <center>
+  
 ![Screenshot-desktop](/images/Screenshot-desktop.png)
   
 ![Screenshot-mobile](/images/Screenshot-mobile.png)
