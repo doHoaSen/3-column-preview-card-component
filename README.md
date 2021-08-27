@@ -27,9 +27,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+
 <center>
-![screenshot-desktop-ver](./images/Screenshot-desktop.png)
-![screenshot-mobile-ver](./images/Screenshot-mobile.png)
+![Screenshot-desktop](/images/Screenshot-desktop.png)
+![Screenshot-mobile](/images/Screenshot-mobile.png)
+
 </center>
 
 
